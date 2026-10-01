@@ -1,15 +1,19 @@
-📊 Dashboard Screenshots
+# 📊 Banking Customer and Transaction Analysis
 
- 1. Executive Dashboard
-[Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
+## 📸 Dashboard Screenshots
 
- 2. Customer & Transaction Analysis
-[Customer & Transaction Analysis](Screenshots/02_Customer_Transaction.png)
+### 1. Executive Banking Overview
 
- 3. Investment Analysis
-[Investment Analysis](Screenshots/03_Investment_Analysis.png)
+![Executive Banking Overview](Executive%20Banking%20Overview.png)
 
- 4. Branch & Financial Analysis
-[Branch & Financial Analysis](Screenshots/04_Branch_Financial_Analysis.png)
+### 2. Customer & Transaction Analysis
 
- 
+![Customer & Transaction Analysis](Customer%20and%20Transaction%20Analysis.png)
+
+### 3. Investment & Financial Analysis
+
+![Investment & Financial Analysis](Investment%20and%20Financial%20Analysis.png)
+
+### 4. Branch Performance Analysis
+
+![Branch Performance Analysis](Branch%20Performance%20Analysis.png)
