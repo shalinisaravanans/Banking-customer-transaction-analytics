@@ -40,4 +40,18 @@ Compares banking performance across different branches and regions.
 
 ## 📸 Dashboard Screenshots
 
-The dashboard screenshots are available in the `Screenshots` folder.
+### 1. Executive Banking Overview
+
+![Executive Banking Overview](Screenshots/Executive%20Banking%20Overview.png)
+
+### 2. Customer & Transaction Analysis
+
+![Customer & Transaction Analysis](Screenshots/Customer%20and%20Transaction%20Analysis.png)
+
+### 3. Investment & Financial Analysis
+
+![Investment & Financial Analysis](Screenshots/Investment%20and%20Financial%20Analysis.png)
+
+### 4. Branch Performance Analysis
+
+![Branch Performance Analysis](Screenshots/Branch%20Performance%20Analysis.png)
